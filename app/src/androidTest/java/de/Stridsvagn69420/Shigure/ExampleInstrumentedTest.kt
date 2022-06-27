@@ -1,4 +1,4 @@
-package de.stridsvagn69420.shigure
+package de.Stridsvagn69420.Shigure
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

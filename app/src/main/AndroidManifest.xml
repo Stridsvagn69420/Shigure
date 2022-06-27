@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="de.stridsvagn69420.shigure">
+    package="de.Stridsvagn69420.Shigure">
 
     <application
         android:allowBackup="true"
