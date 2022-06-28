@@ -1,4 +1,4 @@
-package de.Stridsvagn69420.Shigure.ui.home
+package de.stridsvagn69420.shigure.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater

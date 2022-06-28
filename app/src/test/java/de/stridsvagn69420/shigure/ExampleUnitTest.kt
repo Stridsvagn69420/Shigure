@@ -1,4 +1,4 @@
-package de.Stridsvagn69420.Shigure
+package de.stridsvagn69420.shigure
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package de.Stridsvagn69420.Shigure
+package de.stridsvagn69420.shigure
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView

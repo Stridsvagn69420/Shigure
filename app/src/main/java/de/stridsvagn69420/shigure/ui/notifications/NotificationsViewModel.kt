@@ -1,4 +1,4 @@
-package de.Stridsvagn69420.Shigure.ui.notifications
+package de.stridsvagn69420.shigure.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
